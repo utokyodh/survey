@@ -1,8 +1,8 @@
 ---
 name: DH2023
-about: DH2023用テンプレート
+about: DH2023ロング発表用テンプレート
 title: "（論文タイトルを入力してください）"
-labels: DH2023
+labels: DH2023, long
 assignees: ''
 
 ---

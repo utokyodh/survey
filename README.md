@@ -1,22 +1,24 @@
 # 論文サーベイ
-論文サーベイ用テンプレートと、サーベイ結果の共有のためのリポジトリです。
+論文サーベイ用テンプレートと、サーベイ結果の共有のためのリポジトリです。[ナレッジグラフ若手の会：論文サーベイ](https://github.com/knowledgegraph-yra/Survey)の方法論とリポジトリを利用させていただきました。
 
 ## サーベイ内容の登録方法
 以下の要領で登録をお願いします。
 - [Issues](https://github.com/utokyodh/survey/issues)から投稿をお願いします。
 - 論文1本あたり1件のIssueを作成してください。
-- 該当する会議名のテンプレートを使用してください。
+- 該当する会議名・トラック名のテンプレートを使用してください。
 - Issueのタイトルは論文名を入力してください。
 
-## テンプレート使用例
-- Research Track：[Graphhopper: Multi-hop Scene Graph Reasoning for Visual Question Answering](https://github.com/knowledgegraph-yra/Survey/issues/10)
+## サーベイの例
+- DH2023：[Graphhopper: Multi-hop Scene Graph Reasoning for Visual Question Answering](https://github.com/knowledgegraph-yra/Survey/issues/10)
 
-## サーベイ会発表資料
-サーベイ内容をまとめて発表するサーベイ会を開催しています。  
-[発表資料（PDF）](https://github.com/knowledgegraph-yra/Survey/tree/main/pdf)
+## サーベイ会
+サーベイ内容をまとめて発表するサーベイ会を開催します。  
+- DH2023サーベイ会：2023年9月開催予定
 
-## 参考にさせていただいた取り組み
-- [ナレッジグラフ若手の会：論文サーベイ](https://github.com/knowledgegraph-yra/Survey)
+## DH2023関連情報
+- [Digital Humanities 2023: Book of Abstracts](https://zenodo.org/record/8210808)
+
+## 参考情報
 - [arXivTimes](https://github.com/arXivTimes/arXivTimes)
 - [xpaper.challenge](http://xpaperchallenge.org/)
 - [Papers with code](https://paperswithcode.com/)
