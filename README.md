@@ -6,10 +6,8 @@
 - [Issues](https://github.com/utokyodh/survey/issues)から投稿をお願いします。
 - 論文1本あたり1件のIssueを作成してください。
 - 該当する会議名・トラック名のテンプレートを使用してください。
-- Issueのタイトルは論文名を入力してください。
-
-## サーベイの例
-- DH2023：[Graphhopper: Multi-hop Scene Graph Reasoning for Visual Question Answering](https://github.com/knowledgegraph-yra/Survey/issues/10)
+- Issueのタイトルには論文名を入力してください。
+- [サーベイの例](https://github.com/utokyodh/survey/issues/1)
 
 ## サーベイ会
 サーベイ内容をまとめて発表するサーベイ会を開催します。  
