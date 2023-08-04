@@ -1,5 +1,5 @@
 ---
-name: DH2023
+name: DH2023-short
 about: DH2023ショート発表用テンプレート
 title: "（論文タイトルを入力してください）"
 labels: DH2023, short

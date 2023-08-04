@@ -1,5 +1,5 @@
 ---
-name: DH2023
+name: DH2023-poster
 about: DH2023ポスター発表用テンプレート
 title: "（論文タイトルを入力してください）"
 labels: DH2023, poster

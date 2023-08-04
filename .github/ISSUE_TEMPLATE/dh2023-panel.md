@@ -1,6 +1,6 @@
 ---
-name: DH2023
-about: DH2023ロング発表用テンプレート
+name: DH2023-panel
+about: DH2023パネル発表用テンプレート
 title: "（論文タイトルを入力してください）"
 labels: DH2023, panel
 assignees: ''
