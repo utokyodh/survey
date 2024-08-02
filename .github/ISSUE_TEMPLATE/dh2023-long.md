@@ -1,8 +1,8 @@
 ---
-name: DH2023-long
-about: DH2023ロング発表用テンプレート
+name: DH2024-long
+about: DH2024ロング発表用テンプレート
 title: "（論文タイトルを入力してください）"
-labels: DH2023, long
+labels: DH2024, long
 assignees: ''
 
 ---
@@ -17,11 +17,9 @@ assignees: ''
 - ...
 
 ## 会議名・ジャーナル名  
-Digital Humanities 2023
-## セッションID
-（例：LP-F1B）
+Digital Humanities 2024
 ## セッションタイトル
-（例：Scholarly communication）
+（例：Exploring the Frontiers of Digital Humanities）
 
 ## 概要の概要
 （論文内容を2〜3行で要約してください）
@@ -35,5 +33,3 @@ Digital Humanities 2023
 ...
 ## 読んだ範囲
 （概要のみ・ななめ読み程度・ひととおり精読）から選択
-## サーベイにおけるChatGPT/LLMの利用
-（利用なし・参考程度に利用・積極的に利用）から選択
